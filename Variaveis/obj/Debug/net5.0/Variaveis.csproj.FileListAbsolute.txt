@@ -1,0 +1,16 @@
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\bin\Debug\net5.0\Variaveis.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\bin\Debug\net5.0\Variaveis.deps.json
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\bin\Debug\net5.0\Variaveis.runtimeconfig.json
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\bin\Debug\net5.0\Variaveis.runtimeconfig.dev.json
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\bin\Debug\net5.0\Variaveis.dll
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\bin\Debug\net5.0\Variaveis.pdb
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\Variaveis.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\Variaveis.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\Variaveis.dll
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\refint\Variaveis.dll
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\Variaveis.pdb
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\Variaveis.genruntimeconfig.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Variaveis\obj\Debug\net5.0\ref\Variaveis.dll
