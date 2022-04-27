@@ -1,0 +1,8 @@
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Entrada_Saida_de_Dados\Entrada_Saida_de_Dados\bin\Debug\Entrada_Saida_de_Dados.exe.config
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Entrada_Saida_de_Dados\Entrada_Saida_de_Dados\bin\Debug\Entrada_Saida_de_Dados.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Entrada_Saida_de_Dados\Entrada_Saida_de_Dados\bin\Debug\Entrada_Saida_de_Dados.pdb
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Entrada_Saida_de_Dados\Entrada_Saida_de_Dados\obj\Debug\Entrada_Saida_de_Dados.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Entrada_Saida_de_Dados\Entrada_Saida_de_Dados\obj\Debug\Entrada_Saida_de_Dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Entrada_Saida_de_Dados\Entrada_Saida_de_Dados\obj\Debug\Entrada_Saida_de_Dados.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Entrada_Saida_de_Dados\Entrada_Saida_de_Dados\obj\Debug\Entrada_Saida_de_Dados.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Entrada_Saida_de_Dados\Entrada_Saida_de_Dados\obj\Debug\Entrada_Saida_de_Dados.pdb
