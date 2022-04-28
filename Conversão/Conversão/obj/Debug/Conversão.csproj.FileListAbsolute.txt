@@ -1,0 +1,8 @@
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Conversão\Conversão\bin\Debug\Conversão.exe.config
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Conversão\Conversão\bin\Debug\Conversão.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Conversão\Conversão\bin\Debug\Conversão.pdb
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Conversão\Conversão\obj\Debug\Conversão.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Conversão\Conversão\obj\Debug\Conversão.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Conversão\Conversão\obj\Debug\Conversão.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Conversão\Conversão\obj\Debug\Conversão.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Conversão\Conversão\obj\Debug\Conversão.pdb
