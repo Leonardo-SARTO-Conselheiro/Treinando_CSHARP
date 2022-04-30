@@ -1,0 +1,8 @@
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Operadores\Operadores\obj\Debug\Operadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Operadores\Operadores\obj\Debug\Operadores.pdb
