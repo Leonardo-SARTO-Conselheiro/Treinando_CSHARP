@@ -1,0 +1,8 @@
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\ConversorTemperaturas_Operadores\ConversorTemperaturas_Operadores\bin\Debug\ConversorTemperaturas_Operadores.exe.config
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\ConversorTemperaturas_Operadores\ConversorTemperaturas_Operadores\bin\Debug\ConversorTemperaturas_Operadores.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\ConversorTemperaturas_Operadores\ConversorTemperaturas_Operadores\bin\Debug\ConversorTemperaturas_Operadores.pdb
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\ConversorTemperaturas_Operadores\ConversorTemperaturas_Operadores\obj\Debug\ConversorTemperaturas_Operadores.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\ConversorTemperaturas_Operadores\ConversorTemperaturas_Operadores\obj\Debug\ConversorTemperaturas_Operadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\ConversorTemperaturas_Operadores\ConversorTemperaturas_Operadores\obj\Debug\ConversorTemperaturas_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\ConversorTemperaturas_Operadores\ConversorTemperaturas_Operadores\obj\Debug\ConversorTemperaturas_Operadores.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\ConversorTemperaturas_Operadores\ConversorTemperaturas_Operadores\obj\Debug\ConversorTemperaturas_Operadores.pdb
