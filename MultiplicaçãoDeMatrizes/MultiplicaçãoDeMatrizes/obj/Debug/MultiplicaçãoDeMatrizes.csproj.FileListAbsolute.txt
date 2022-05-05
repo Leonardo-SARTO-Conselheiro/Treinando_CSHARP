@@ -1,0 +1,8 @@
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\MultiplicaçãoDeMatrizes\MultiplicaçãoDeMatrizes\bin\Debug\MultiplicaçãoDeMatrizes.exe.config
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\MultiplicaçãoDeMatrizes\MultiplicaçãoDeMatrizes\bin\Debug\MultiplicaçãoDeMatrizes.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\MultiplicaçãoDeMatrizes\MultiplicaçãoDeMatrizes\bin\Debug\MultiplicaçãoDeMatrizes.pdb
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\MultiplicaçãoDeMatrizes\MultiplicaçãoDeMatrizes\obj\Debug\MultiplicaçãoDeMatrizes.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\MultiplicaçãoDeMatrizes\MultiplicaçãoDeMatrizes\obj\Debug\MultiplicaçãoDeMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\MultiplicaçãoDeMatrizes\MultiplicaçãoDeMatrizes\obj\Debug\MultiplicaçãoDeMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\MultiplicaçãoDeMatrizes\MultiplicaçãoDeMatrizes\obj\Debug\MultiplicaçãoDeMatrizes.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\MultiplicaçãoDeMatrizes\MultiplicaçãoDeMatrizes\obj\Debug\MultiplicaçãoDeMatrizes.pdb

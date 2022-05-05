@@ -1,0 +1,8 @@
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Colecao\Colecao\bin\Debug\Colecao.exe.config
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Colecao\Colecao\bin\Debug\Colecao.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Colecao\Colecao\bin\Debug\Colecao.pdb
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Colecao\Colecao\obj\Debug\Colecao.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Colecao\Colecao\obj\Debug\Colecao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Colecao\Colecao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Colecao\Colecao\obj\Debug\Colecao.exe
+C:\Users\Meu Computador\Desktop\LOGICA_POO_C#\Projetos\Colecao\Colecao\obj\Debug\Colecao.pdb
